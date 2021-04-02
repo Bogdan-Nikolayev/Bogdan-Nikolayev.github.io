@@ -1,5 +1,7 @@
 import * as THREE from "https://unpkg.com/three@0.127.0/build/three.module.js";
 import { GLTFLoader } from "https://unpkg.com/three@0.127.0/examples/jsm/loaders/GLTFLoader.js";
+import { DRACOLoader } from "https://unpkg.com/three@0.127.0/examples/jsm/loaders/DRACOLoader.js";
+import { OrbitControls } from "https://unpkg.com/three@0.127.0/examples/jsm/controls/OrbitControls.js";
 
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(
@@ -8,16 +10,20 @@ const camera = new THREE.PerspectiveCamera(
   0.1,
   1000
 );
-
 const renderer = new THREE.WebGLRenderer();
+const controls = new OrbitControls(camera, renderer.domElement);
 renderer.setSize(window.innerWidth, window.innerHeight);
 
 // createCube();
-// loadGltf();
-
-document.body.appendChild(renderer.domElement);
+// Need to light up the models because its black without it.
+const light = new THREE.AmbientLight(0x404040);
+scene.add(light);
 
 camera.position.z = 5;
+
+loadGltf();
+
+document.body.appendChild(renderer.domElement);
 
 animate();
 
@@ -42,6 +48,7 @@ function loadGltf() {
     "models/Astronaut.glb",
     // called when the resource is loaded
     function (gltf) {
+      // gltf.scene.scale = 100;
       scene.add(gltf.scene);
 
       gltf.animations; // Array<THREE.AnimationClip>
@@ -63,6 +70,8 @@ function loadGltf() {
 
 function animate() {
   requestAnimationFrame(animate);
+
+  controls.update();
 
   renderer.render(scene, camera);
 }
