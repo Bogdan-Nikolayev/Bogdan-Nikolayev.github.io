@@ -1,9 +1,5 @@
 import * as THREE from "https://unpkg.com/three@0.127.0/build/three.module.js";
-// import * as THREE from "../node_modules/three/build/three.module.js";
-// import { GLTFLoader } from "https://unpkg.com/browse/three@0.127.0/examples/jsm/loaders/GLTFLoader.js";
-// import { GLTFLoader } from "https://github.com/mrdoob/three.js/tree/dev/examples/jsm/loaders/GLTFLoader.js";
-// import * as THREE from "three";
-// import { GLTFLoader } from "../node_modules/three/examples/js/loaders/GLTFLoader.js";
+import { GLTFLoader } from "https://unpkg.com/three@0.127.0/examples/jsm/loaders/GLTFLoader.js";
 
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(
