@@ -16,7 +16,7 @@ renderer.setSize(window.innerWidth, window.innerHeight);
 
 // createCube();
 // Need to light up the models because its black without it.
-const light = new THREE.AmbientLight(0x404040);
+const light = new THREE.AmbientLight(0xffffff);
 scene.add(light);
 
 camera.position.z = 5;
