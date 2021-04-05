@@ -45,7 +45,7 @@ function loadGltf() {
   // Load a glTF resource
   loader.load(
     // resource URL
-    "models/Astronaut.glb",
+    "models/untitled.gltf",
     // called when the resource is loaded
     function (gltf) {
       // gltf.scene.scale = 100;
