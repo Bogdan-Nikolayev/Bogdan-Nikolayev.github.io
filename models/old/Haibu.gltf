@@ -1,0 +1,4601 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "Open Asset Import Library (assimp v5.0.5eb040c7)"
+  },
+  "accessors": [
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 3814,
+      "type": "VEC3",
+      "max": [11.751480102539063, 80.05110931396485, 8.943595886230469],
+      "min": [-11.749786376953125, 54.49778366088867, -26.7076473236084]
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 22872,
+      "type": "SCALAR",
+      "max": [3813],
+      "min": [0]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 6648,
+      "type": "VEC3",
+      "max": [37.078433990478519, 76.52809143066406, 10.124836921691895],
+      "min": [-37.02075958251953, 34.671051025390628, -11.57584285736084]
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 39684,
+      "type": "SCALAR",
+      "max": [6647],
+      "min": [0]
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 6172,
+      "type": "VEC3",
+      "max": [15.27481746673584, 48.96287155151367, 8.51504898071289],
+      "min": [-15.266383171081543, 3.0580735206604006, -13.533462524414063]
+    },
+    {
+      "bufferView": 5,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 36834,
+      "type": "SCALAR",
+      "max": [6171],
+      "min": [0]
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 18146,
+      "type": "VEC3",
+      "max": [14.914320945739746, 12.004474639892579, 14.967659950256348],
+      "min": [-15.008115768432618, -0.7906773090362549, -12.25726318359375]
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 107139,
+      "type": "SCALAR",
+      "max": [18145],
+      "min": [0]
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 324,
+      "type": "VEC3",
+      "max": [-1.2630079984664918, 74.3084487915039, 9.195891380310059],
+      "min": [-4.734166145324707, 70.88717651367188, 7.713871955871582]
+    },
+    {
+      "bufferView": 9,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 1944,
+      "type": "SCALAR",
+      "max": [323],
+      "min": [0]
+    },
+    {
+      "bufferView": 10,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 324,
+      "type": "VEC3",
+      "max": [4.734166145324707, 74.3084487915039, 9.195891380310059],
+      "min": [1.2630079984664918, 70.88717651367188, 7.713871955871582]
+    },
+    {
+      "bufferView": 11,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 1944,
+      "type": "SCALAR",
+      "max": [323],
+      "min": [0]
+    },
+    {
+      "bufferView": 12,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 730,
+      "type": "VEC3",
+      "max": [6.336859703063965, 74.61699676513672, 11.703105926513672],
+      "min": [1.2537989616394044, 56.22481918334961, 6.389455318450928]
+    },
+    {
+      "bufferView": 13,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 4356,
+      "type": "SCALAR",
+      "max": [729],
+      "min": [0]
+    },
+    {
+      "bufferView": 14,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 730,
+      "type": "VEC3",
+      "max": [-1.2249501943588257, 74.56112670898438, 11.703105926513672],
+      "min": [-6.336859703063965, 56.22481918334961, 6.378506660461426]
+    },
+    {
+      "bufferView": 15,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 4356,
+      "type": "SCALAR",
+      "max": [729],
+      "min": [0]
+    },
+    {
+      "bufferView": 16,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 3028,
+      "type": "VEC3",
+      "max": [53.3736457824707, 72.45335388183594, 8.045231819152832],
+      "min": [-53.36905288696289, 7.58283805847168, -10.161528587341309]
+    },
+    {
+      "bufferView": 17,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 17616,
+      "type": "SCALAR",
+      "max": [3027],
+      "min": [0]
+    },
+    {
+      "bufferView": 18,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 844,
+      "type": "VEC3",
+      "max": [16.2061824798584, 105.75786590576172, 19.911088943481447],
+      "min": [-16.207677841186525, 94.74657440185547, 12.342485427856446]
+    },
+    {
+      "bufferView": 19,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 844,
+      "type": "VEC3",
+      "max": [0.997158408164978, 0.9911177754402161, 0.9795789122581482],
+      "min": [-0.9971272945404053, -0.9972748160362244, -0.9859752655029297]
+    },
+    {
+      "bufferView": 20,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 4992,
+      "type": "SCALAR",
+      "max": [843],
+      "min": [0]
+    },
+    {
+      "bufferView": 21,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 827,
+      "type": "VEC3",
+      "max": [5.4099345207214359, 97.51010131835938, 14.969165802001954],
+      "min": [-5.4099345207214359, 80.65007781982422, 1.8209420442581177]
+    },
+    {
+      "bufferView": 22,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 827,
+      "type": "VEC3",
+      "max": [0.997897744178772, 0.998222827911377, 0.999845027923584],
+      "min": [-0.9981591701507568, -0.9978371262550354, -0.9998642802238464]
+    },
+    {
+      "bufferView": 23,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 4902,
+      "type": "SCALAR",
+      "max": [826],
+      "min": [0]
+    },
+    {
+      "bufferView": 24,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 540,
+      "type": "VEC3",
+      "max": [5.837090492248535, 90.21343231201172, 17.369810104370118],
+      "min": [-5.84125280380249, 83.30391693115235, 5.767392158508301]
+    },
+    {
+      "bufferView": 25,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 540,
+      "type": "VEC3",
+      "max": [0.9988287091255188, 0.9899700880050659, 0.9994187951087952],
+      "min": [-0.9987744092941284, -0.9917080402374268, -0.9989209175109863]
+    },
+    {
+      "bufferView": 26,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 3216,
+      "type": "SCALAR",
+      "max": [539],
+      "min": [0]
+    },
+    {
+      "bufferView": 27,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 8237,
+      "type": "VEC3",
+      "max": [20.126096725463868, 125.10895538330078, 21.959619522094728],
+      "min": [-20.12611198425293, 69.24353790283203, -19.765905380249025]
+    },
+    {
+      "bufferView": 28,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 8237,
+      "type": "VEC3",
+      "max": [0.9999924898147583, 0.9998851418495178, 0.9999820590019226],
+      "min": [-0.9999925494194031, -0.9996114373207092, -0.9999439120292664]
+    },
+    {
+      "bufferView": 29,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 48600,
+      "type": "SCALAR",
+      "max": [8236],
+      "min": [0]
+    },
+    {
+      "bufferView": 30,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 12292,
+      "type": "VEC3",
+      "max": [13.477272987365723, 102.84357452392578, 16.22288703918457],
+      "min": [-13.477288246154786, 92.27057647705078, 5.289027690887451]
+    },
+    {
+      "bufferView": 31,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 12292,
+      "type": "VEC3",
+      "max": [0.9997959136962891, 1.0, 0.9998669624328613],
+      "min": [-0.9997959733009338, -1.0, -0.9997958540916443]
+    },
+    {
+      "bufferView": 32,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 73728,
+      "type": "SCALAR",
+      "max": [12291],
+      "min": [0]
+    },
+    {
+      "bufferView": 33,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 2076,
+      "type": "VEC3",
+      "max": [13.225759506225586, 102.57756042480469, 15.246214866638184],
+      "min": [-13.225784301757813, 92.5365982055664, 5.3856024742126469]
+    },
+    {
+      "bufferView": 34,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 2076,
+      "type": "VEC3",
+      "max": [0.9998592734336853, 1.0, 0.9998295903205872],
+      "min": [-0.9998568296432495, -1.0, -0.9970934391021729]
+    },
+    {
+      "bufferView": 35,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 12432,
+      "type": "SCALAR",
+      "max": [2075],
+      "min": [0]
+    },
+    {
+      "bufferView": 36,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 6552,
+      "type": "VEC3",
+      "max": [22.118558883666993, 122.89984130859375, 9.151366233825684],
+      "min": [-22.118558883666993, 106.28227996826172, -17.53789520263672]
+    },
+    {
+      "bufferView": 37,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 6552,
+      "type": "VEC3",
+      "max": [0.9998928904533386, 0.9990482330322266, 0.999875009059906],
+      "min": [-0.9998928904533386, -0.9999935030937195, -0.9987606406211853]
+    },
+    {
+      "bufferView": 38,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 39168,
+      "type": "SCALAR",
+      "max": [6551],
+      "min": [0]
+    },
+    {
+      "bufferView": 39,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 64394,
+      "type": "VEC3",
+      "max": [22.034608840942384, 130.52838134765626, 22.072349548339845],
+      "min": [-22.034608840942384, 81.50065612792969, -41.57270050048828]
+    },
+    {
+      "bufferView": 40,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 64394,
+      "type": "VEC3",
+      "max": [0.9999660849571228, 0.9999814629554749, 0.9999895691871643],
+      "min": [-0.9999638199806213, -0.9999040961265564, -0.9999601244926453]
+    },
+    {
+      "bufferView": 41,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 385101,
+      "type": "SCALAR",
+      "max": [64393],
+      "min": [0]
+    },
+    {
+      "bufferView": 42,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 386,
+      "type": "VEC3",
+      "max": [12.016128540039063, 53.50859451293945, 12.315629959106446],
+      "min": [-12.019245147705079, 39.0444450378418, 6.552323341369629]
+    },
+    {
+      "bufferView": 43,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 2304,
+      "type": "SCALAR",
+      "max": [385],
+      "min": [0]
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 6026664,
+      "uri": "result.bin"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 45768,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 45768,
+      "byteLength": 91488,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 137256,
+      "byteLength": 79776,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 217032,
+      "byteLength": 158736,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 375768,
+      "byteLength": 74064,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 449832,
+      "byteLength": 147336,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 597168,
+      "byteLength": 217752,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 814920,
+      "byteLength": 428556,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1243476,
+      "byteLength": 3888,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1247364,
+      "byteLength": 7776,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1255140,
+      "byteLength": 3888,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1259028,
+      "byteLength": 7776,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1266804,
+      "byteLength": 8760,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1275564,
+      "byteLength": 17424,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1292988,
+      "byteLength": 8760,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1301748,
+      "byteLength": 17424,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1319172,
+      "byteLength": 36336,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1355508,
+      "byteLength": 70464,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1425972,
+      "byteLength": 10128,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1436100,
+      "byteLength": 10128,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1446228,
+      "byteLength": 19968,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1466196,
+      "byteLength": 9924,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1476120,
+      "byteLength": 9924,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1486044,
+      "byteLength": 19608,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1505652,
+      "byteLength": 6480,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1512132,
+      "byteLength": 6480,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1518612,
+      "byteLength": 12864,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1531476,
+      "byteLength": 98844,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1630320,
+      "byteLength": 98844,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1729164,
+      "byteLength": 194400,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1923564,
+      "byteLength": 147504,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2071068,
+      "byteLength": 147504,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2218572,
+      "byteLength": 294912,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2513484,
+      "byteLength": 24912,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2538396,
+      "byteLength": 24912,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2563308,
+      "byteLength": 49728,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2613036,
+      "byteLength": 78624,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2691660,
+      "byteLength": 78624,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2770284,
+      "byteLength": 156672,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2926956,
+      "byteLength": 772728,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 3699684,
+      "byteLength": 772728,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4472412,
+      "byteLength": 1540404,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6012816,
+      "byteLength": 4632,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6017448,
+      "byteLength": 9216,
+      "target": 34963
+    }
+  ],
+  "images": [
+    {
+      "uri": "Haibu_1.fbm\\Haibu_Hood_Material_BaseColor.tga"
+    },
+    {
+      "uri": "Haibu_1.fbm\\Haibu_Jumper_Material_BaseColor.tga"
+    },
+    {
+      "uri": "Haibu_1.fbm\\Haibu_Jeans_Material_BaseColor.tga"
+    },
+    {
+      "uri": "Haibu_1.fbm\\Haibu_Trainers_Material_BaseColor.tga"
+    },
+    {
+      "uri": "Haibu_1.fbm\\Haibu_BodyHands_Material_BaseColor.tga"
+    },
+    {
+      "uri": "Haibu_1.fbm\\Haibu_EyeInner_Material_BaseColor.tga"
+    },
+    {
+      "uri": "..\\..\\..\\HaibusAcademy\\Maya\\HaibuCharacter_Setup\\sourceimages\\Haibu_1.fbm\\Haibu_Braids_Material_BaseColor.tga"
+    },
+    {
+      "uri": "Haibu_1.fbm\\Haibu_Hair_Material_BaseColor.tga"
+    }
+  ],
+  "materials": [
+    {
+      "name": "HaibuRigComp0004:lambert2",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "baseColorFactor": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "name": "HaibuRigComp0004:Haibu_Jumper_Material",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "name": "HaibuRigComp0004:Haibu_Jeans_Material",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "name": "HaibuRigComp0004:Haibu_Trainers_Material",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "name": "HaibuRigComp0004:Haibu_BodyHands_Material",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "name": "HaibuRigComp0004:blinn5",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0.0, 0.0, 0.0, 1.0],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.726138710975647
+      }
+    },
+    {
+      "name": "HaibuRigComp0004:Haibu_Head_Material3",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0.5, 0.5, 0.5, 1.0],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "name": "HaibuRigComp0004:Haibu_Teeth_Material3",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0.5, 0.5, 0.5, 1.0],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "name": "HaibuRigComp0004:Haibu_Hood_Material",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "name": "HaibuRigComp0004:blinn2",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4000000059604645,
+          0.4000000059604645,
+          0.4000000059604645,
+          0.05194807052612305
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8987412452697754
+      },
+      "alphaMode": "BLEND"
+    },
+    {
+      "name": "HaibuRigComp0004:blinn3",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 5
+        },
+        "baseColorFactor": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9602766036987305
+      }
+    },
+    {
+      "name": "HaibuRigComp0004:Haibu_Braids_Material",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "name": "HaibuRigComp0004:Haibu_Hair_Material",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 7
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "HaibuRigComp0004:HaibuHoodieHood_low",
+      "primitives": [
+        {
+          "mode": 4,
+          "material": 0,
+          "indices": 1,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HaibuRigComp0004:HaibuHoodieMain_low",
+      "primitives": [
+        {
+          "mode": 4,
+          "material": 1,
+          "indices": 3,
+          "attributes": {
+            "POSITION": 2
+          }
+        }
+      ]
+    },
+    {
+      "name": "HaibuRigComp0004:HaibuJeans_low",
+      "primitives": [
+        {
+          "mode": 4,
+          "material": 2,
+          "indices": 5,
+          "attributes": {
+            "POSITION": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "HaibuRigComp0004:HaibuTrainers_low",
+      "primitives": [
+        {
+          "mode": 4,
+          "material": 3,
+          "indices": 7,
+          "attributes": {
+            "POSITION": 6
+          }
+        }
+      ]
+    },
+    {
+      "name": "HaibuRigComp0004:R_HaibuHoodieRings_low",
+      "primitives": [
+        {
+          "mode": 4,
+          "material": 1,
+          "indices": 9,
+          "attributes": {
+            "POSITION": 8
+          }
+        }
+      ]
+    },
+    {
+      "name": "HaibuRigComp0004:L_HaibuHoodieRings_low",
+      "primitives": [
+        {
+          "mode": 4,
+          "material": 1,
+          "indices": 11,
+          "attributes": {
+            "POSITION": 10
+          }
+        }
+      ]
+    },
+    {
+      "name": "HaibuRigComp0004:L_HaibuHoodieTogglesEnds_low1",
+      "primitives": [
+        {
+          "mode": 4,
+          "material": 1,
+          "indices": 13,
+          "attributes": {
+            "POSITION": 12
+          }
+        }
+      ]
+    },
+    {
+      "name": "HaibuRigComp0004:R_HaibuHoodieTogglesEnds_low",
+      "primitives": [
+        {
+          "mode": 4,
+          "material": 1,
+          "indices": 15,
+          "attributes": {
+            "POSITION": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "HaibuRigComp0004:HaibuBodyHands_Cut_low",
+      "primitives": [
+        {
+          "mode": 4,
+          "material": 4,
+          "indices": 17,
+          "attributes": {
+            "POSITION": 16
+          }
+        }
+      ]
+    },
+    {
+      "name": "HaibuRigComp0004:HeadGeo",
+      "primitives": [
+        {
+          "mode": 4,
+          "material": 5,
+          "indices": 20,
+          "attributes": {
+            "POSITION": 18,
+            "NORMAL": 19
+          }
+        },
+        {
+          "mode": 4,
+          "material": 6,
+          "indices": 23,
+          "attributes": {
+            "POSITION": 21,
+            "NORMAL": 22
+          }
+        },
+        {
+          "mode": 4,
+          "material": 7,
+          "indices": 26,
+          "attributes": {
+            "POSITION": 24,
+            "NORMAL": 25
+          }
+        },
+        {
+          "mode": 4,
+          "material": 8,
+          "indices": 29,
+          "attributes": {
+            "POSITION": 27,
+            "NORMAL": 28
+          }
+        },
+        {
+          "mode": 4,
+          "material": 9,
+          "indices": 32,
+          "attributes": {
+            "POSITION": 30,
+            "NORMAL": 31
+          }
+        },
+        {
+          "mode": 4,
+          "material": 10,
+          "indices": 35,
+          "attributes": {
+            "POSITION": 33,
+            "NORMAL": 34
+          }
+        },
+        {
+          "mode": 4,
+          "material": 11,
+          "indices": 38,
+          "attributes": {
+            "POSITION": 36,
+            "NORMAL": 37
+          }
+        },
+        {
+          "mode": 4,
+          "material": 12,
+          "indices": 41,
+          "attributes": {
+            "POSITION": 39,
+            "NORMAL": 40
+          }
+        }
+      ]
+    },
+    {
+      "name": "HaibuRigComp0004:HaibuHoodiePouch_low1",
+      "primitives": [
+        {
+          "mode": 4,
+          "material": 1,
+          "indices": 43,
+          "attributes": {
+            "POSITION": 42
+          }
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "RootNode",
+      "children": [1, 17]
+    },
+    {
+      "name": "HaibuRigComp0004:Haibu_GEO_GRP1",
+      "children": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 16]
+    },
+    {
+      "name": "HaibuRigComp0004:HaibuHoodieHood_low",
+      "mesh": 0
+    },
+    {
+      "name": "HaibuRigComp0004:HaibuHoodieMain_low",
+      "mesh": 1
+    },
+    {
+      "name": "HaibuRigComp0004:HaibuJeans_low",
+      "mesh": 2
+    },
+    {
+      "name": "HaibuRigComp0004:HaibuTrainers_low",
+      "mesh": 3
+    },
+    {
+      "name": "HaibuRigComp0004:R_HaibuHoodieRings_low",
+      "mesh": 4
+    },
+    {
+      "name": "HaibuRigComp0004:L_HaibuHoodieRings_low",
+      "mesh": 5
+    },
+    {
+      "name": "HaibuRigComp0004:L_HaibuHoodieTogglesEnds_low1",
+      "mesh": 6
+    },
+    {
+      "name": "HaibuRigComp0004:R_HaibuHoodieTogglesEnds_low",
+      "mesh": 7
+    },
+    {
+      "name": "HaibuRigComp0004:HaibuBodyHands_Cut_low",
+      "mesh": 8
+    },
+    {
+      "name": "HaibuRigComp0004:HeadGeo_$AssimpFbx$_RotationPivot",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        99.88595581054688,
+        -9.750175476074219,
+        1.0
+      ],
+      "children": [12]
+    },
+    {
+      "name": "HaibuRigComp0004:HeadGeo_$AssimpFbx$_RotationPivotInverse",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.0,
+        -99.88595581054688,
+        9.750175476074219,
+        1.0
+      ],
+      "children": [13]
+    },
+    {
+      "name": "HaibuRigComp0004:HeadGeo_$AssimpFbx$_ScalingPivot",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        99.88595581054688,
+        -9.750175476074219,
+        1.0
+      ],
+      "children": [14]
+    },
+    {
+      "name": "HaibuRigComp0004:HeadGeo_$AssimpFbx$_ScalingPivotInverse",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.0,
+        -99.88595581054688,
+        9.750175476074219,
+        1.0
+      ],
+      "children": [15]
+    },
+    {
+      "name": "HaibuRigComp0004:HeadGeo",
+      "mesh": 9
+    },
+    {
+      "name": "HaibuRigComp0004:HaibuHoodiePouch_low1",
+      "mesh": 10
+    },
+    {
+      "name": "HaibuRigComp0004:Hips_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        47.9804573059082,
+        0.0,
+        1.0
+      ],
+      "children": [18]
+    },
+    {
+      "name": "HaibuRigComp0004:Hips_$AssimpFbx$_PreRotation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9834609627723694,
+        0.1811203509569168,
+        0.0,
+        0.0,
+        -0.1811203509569168,
+        0.9834609627723694,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [19]
+    },
+    {
+      "name": "HaibuRigComp0004:Hips",
+      "children": [20, 194, 203]
+    },
+    {
+      "name": "HaibuRigComp0004:Spine_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -4.930380657631324e-32,
+        1.523274540901184,
+        3.569465131760994e-16,
+        1.0
+      ],
+      "children": [21]
+    },
+    {
+      "name": "HaibuRigComp0004:Spine_$AssimpFbx$_PreRotation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9927435517311096,
+        -0.1202508732676506,
+        0.0,
+        0.0,
+        0.1202508732676506,
+        0.9927435517311096,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [22]
+    },
+    {
+      "name": "HaibuRigComp0004:Spine",
+      "children": [23]
+    },
+    {
+      "name": "HaibuRigComp0004:Spine1_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -7.851971068850131e-16,
+        4.714951038360596,
+        -5.561812619854012e-16,
+        1.0
+      ],
+      "children": [24]
+    },
+    {
+      "name": "HaibuRigComp0004:Spine1_$AssimpFbx$_PreRotation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9950551390647888,
+        -0.09932401031255722,
+        0.0,
+        0.0,
+        0.09932401031255722,
+        0.9950551390647888,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [25]
+    },
+    {
+      "name": "HaibuRigComp0004:Spine1",
+      "children": [26]
+    },
+    {
+      "name": "HaibuRigComp0004:Spine2_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -2.6173233366863157e-16,
+        4.7149505615234379,
+        -5.823544212368815e-15,
+        1.0
+      ],
+      "children": [27]
+    },
+    {
+      "name": "HaibuRigComp0004:Spine2_$AssimpFbx$_PreRotation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9976187348365784,
+        -0.0689699798822403,
+        0.0,
+        0.0,
+        0.0689699798822403,
+        0.9976187348365784,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [28]
+    },
+    {
+      "name": "HaibuRigComp0004:Spine2",
+      "children": [29]
+    },
+    {
+      "name": "HaibuRigComp0004:Spine3_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -1.0071053395055365e-15,
+        4.714951992034912,
+        -4.0654108633122676e-16,
+        1.0
+      ],
+      "children": [30]
+    },
+    {
+      "name": "HaibuRigComp0004:Spine3_$AssimpFbx$_PreRotation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9970497488975525,
+        0.07675798237323761,
+        0.0,
+        0.0,
+        -0.07675798237323761,
+        0.9970497488975525,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [31]
+    },
+    {
+      "name": "HaibuRigComp0004:Spine3",
+      "children": [32, 35, 84, 152, 173]
+    },
+    {
+      "name": "HaibuRigComp0004:Neck",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -6.629453710033919e-15,
+        12.185813903808594,
+        2.0039449361518824e-14,
+        1.0
+      ],
+      "children": [33]
+    },
+    {
+      "name": "HaibuRigComp0004:Neck1",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -2.8274836458448955e-15,
+        4.3175740242004398,
+        0.7316470146179199,
+        1.0
+      ],
+      "children": [34]
+    },
+    {
+      "name": "HaibuRigComp0004:Head",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -6.758144272743212e-15,
+        5.284618854522705,
+        0.3318098485469818,
+        1.0
+      ]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftShoulder_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.2627700567245484,
+        7.303016185760498,
+        1.8291679620742798,
+        1.0
+      ],
+      "children": [36]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftShoulder_$AssimpFbx$_PreRotation",
+      "matrix": [
+        -0.03121986612677574,
+        -0.9990599155426025,
+        -0.030077124014496805,
+        0.0,
+        0.9370138645172119,
+        -0.01878059282898903,
+        -0.34878695011138918,
+        0.0,
+        0.34789416193962099,
+        -0.039071761071681979,
+        0.9367192983627319,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [37]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftShoulder",
+      "children": [38]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftArm_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        8.756297959931423e-15,
+        9.427216529846192,
+        1.120644812129055e-15,
+        1.0
+      ],
+      "children": [39]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftArm_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9988221526145935,
+        -0.04548688605427742,
+        -0.01688835583627224,
+        0.0,
+        0.04845023900270462,
+        0.9537756443023682,
+        0.296588271856308,
+        0.0,
+        0.0026168255135416986,
+        -0.29705721139907839,
+        0.9548560976982117,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [40]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftArm",
+      "children": [41]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftForeArm",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -6.79398435432391e-15,
+        14.660806655883789,
+        2.980627202708473e-15,
+        1.0
+      ],
+      "children": [42]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHand_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.000001976957264560042,
+        10.219178199768067,
+        3.0272138928921779e-7,
+        1.0
+      ],
+      "children": [43]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHand_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9936084151268005,
+        0.0,
+        -0.11288167536258698,
+        0.0,
+        3.4082152655656729e-9,
+        1.0,
+        2.999983195195455e-8,
+        0.0,
+        0.11288167536258698,
+        -3.019281180627331e-8,
+        0.9936084151268005,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [44]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHand",
+      "children": [45, 61, 78]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandRing_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.262278288602829,
+        0.8455778360366821,
+        -1.1681259870529175,
+        1.0
+      ],
+      "children": [46]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandRing_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9859168529510498,
+        0.11178786307573319,
+        0.12438438087701798,
+        0.0,
+        -0.06346156448125839,
+        0.9382157921791077,
+        -0.34018194675445559,
+        0.0,
+        -0.15472760796546937,
+        0.3274974524974823,
+        0.9320970177650452,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [47]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandRing",
+      "children": [48, 54]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandRing1_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.3653724193572998,
+        7.398762226104736,
+        1.7748290300369263,
+        1.0
+      ],
+      "children": [49]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandRing1_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9911835193634033,
+        0.07229328900575638,
+        0.1110358014702797,
+        0.0,
+        -0.09971386194229126,
+        0.9588499069213867,
+        0.2658270597457886,
+        0.0,
+        -0.08724915236234665,
+        -0.2745552062988281,
+        0.9576048851013184,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [50]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandRing1",
+      "children": [51]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandRing2",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5372937321662903,
+        3.778780698776245,
+        0.3415481150150299,
+        1.0
+      ],
+      "children": [52]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandRing3",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.322208970785141,
+        2.26609206199646,
+        0.20482254028320313,
+        1.0
+      ],
+      "children": [53]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandRing4",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.34032413363456728,
+        2.393495559692383,
+        0.21633802354335786,
+        1.0
+      ]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandPinky",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.011704105883836747,
+        0.7357481718063355,
+        -0.48395150899887087,
+        1.0
+      ],
+      "children": [55]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandPinky1_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9684981107711792,
+        6.559776782989502,
+        -0.33541339635849,
+        1.0
+      ],
+      "children": [56]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandPinky1_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9898837208747864,
+        0.09606526046991348,
+        0.10441119968891144,
+        0.0,
+        -0.1127718985080719,
+        0.9792922735214233,
+        0.1681341677904129,
+        0.0,
+        -0.08609723299741745,
+        -0.17820793390274049,
+        0.9802189469337463,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [57]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandPinky1",
+      "children": [58]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandPinky2",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.4186896085739136,
+        3.1831212043762209,
+        0.29896095395088198,
+        1.0
+      ],
+      "children": [59]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandPinky3",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.2590492367744446,
+        1.96944260597229,
+        0.1849714070558548,
+        1.0
+      ],
+      "children": [60]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandPinky4",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.25881844758987429,
+        1.967687964439392,
+        0.18480661511421204,
+        1.0
+      ]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandIndex_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.07116969674825669,
+        0.8086952567100525,
+        0.9367720484733582,
+        1.0
+      ],
+      "children": [62]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandIndex_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9228121042251587,
+        0.35553741455078127,
+        0.14836116135120393,
+        0.0,
+        -0.37392503023147585,
+        0.9192925691604614,
+        0.12280606478452683,
+        0.0,
+        -0.09272515773773194,
+        -0.168802872300148,
+        0.9812785983085632,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [63]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandIndex",
+      "children": [64, 70]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandIndex1_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        2.396212339401245,
+        7.459925651550293,
+        1.6229193210601807,
+        1.0
+      ],
+      "children": [65]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandIndex1_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9858613610267639,
+        0.0,
+        0.16756300628185273,
+        0.0,
+        0.01581523008644581,
+        0.9955359101295471,
+        -0.0930493175983429,
+        0.0,
+        -0.16681498289108277,
+        0.09438377618789673,
+        0.9814603924751282,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [66]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandIndex1",
+      "children": [67]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandIndex2",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5581943988800049,
+        3.398024082183838,
+        0.28641363978385928,
+        1.0
+      ],
+      "children": [68]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandIndex3",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.42474597692489626,
+        2.585653066635132,
+        0.21794025599956513,
+        1.0
+      ],
+      "children": [69]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandIndex4",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.3992858827114105,
+        2.430663824081421,
+        0.20487649738788606,
+        1.0
+      ]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandThumb1_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        2.6555066108703615,
+        0.587478518486023,
+        1.9024173021316529,
+        1.0
+      ],
+      "children": [71]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandThumb1_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.33991533517837527,
+        0.44447341561317446,
+        -0.8287948966026306,
+        0.0,
+        0.44662711024284365,
+        0.6992565989494324,
+        0.5581795573234558,
+        0.0,
+        0.8276362419128418,
+        -0.5598961114883423,
+        0.039174165576696399,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [72]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandThumb1",
+      "children": [73]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandThumb2",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.16387899219989777,
+        4.713944435119629,
+        -1.20090913772583,
+        1.0
+      ],
+      "children": [74]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandThumb3_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.15001092851161958,
+        2.345019817352295,
+        0.43229976296424868,
+        1.0
+      ],
+      "children": [75]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandThumb3_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9993944764137268,
+        0.03479539975523949,
+        0.0,
+        0.0,
+        -0.03479539975523949,
+        0.9993944764137268,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [76]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandThumb3",
+      "children": [77]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandThumb4",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.20834127068519593,
+        3.227370023727417,
+        0.5940569639205933,
+        1.0
+      ]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandMiddle1_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.7082244753837586,
+        8.782735824584961,
+        0.9059961438179016,
+        1.0
+      ],
+      "children": [79]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandMiddle1_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9868952631950378,
+        0.05713159590959549,
+        0.15090970695018769,
+        0.0,
+        -0.05647514387965202,
+        0.99836665391922,
+        -0.008635817095637322,
+        0.0,
+        -0.15115660429000855,
+        0.0,
+        0.9885098338127136,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [80]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandMiddle1",
+      "children": [81]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandMiddle2",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.2317066788673401,
+        3.7572386264801027,
+        0.4129630923271179,
+        1.0
+      ],
+      "children": [82]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandMiddle3",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.1602236032485962,
+        2.5981051921844484,
+        0.285561203956604,
+        1.0
+      ],
+      "children": [83]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftHandMiddle4",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.178900346159935,
+        2.9009578227996828,
+        0.3188481330871582,
+        1.0
+      ]
+    },
+    {
+      "name": "HaibuRigComp0004:RightShoulder_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -1.2627700567245484,
+        7.302999019622803,
+        1.8291640281677247,
+        1.0
+      ],
+      "children": [85]
+    },
+    {
+      "name": "HaibuRigComp0004:RightShoulder_$AssimpFbx$_PreRotation",
+      "matrix": [
+        -0.027435174211859704,
+        0.9994255900382996,
+        0.019892461597919465,
+        0.0,
+        -0.9370142221450806,
+        -0.01877972111105919,
+        -0.3487860858440399,
+        0.0,
+        -0.34821218252182009,
+        -0.028208525851368905,
+        0.936991274356842,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [86]
+    },
+    {
+      "name": "HaibuRigComp0004:RightShoulder",
+      "children": [87]
+    },
+    {
+      "name": "HaibuRigComp0004:RightArm_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -1.6224194432585063e-14,
+        9.427224159240723,
+        7.353621881311023e-16,
+        1.0
+      ],
+      "children": [88]
+    },
+    {
+      "name": "HaibuRigComp0004:RightArm_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9986262917518616,
+        0.046767059713602069,
+        0.023629184812307359,
+        0.0,
+        -0.05167154595255852,
+        0.9537755846977234,
+        0.2960442006587982,
+        0.0,
+        -0.008691824041306973,
+        -0.29685845971107485,
+        0.9548819661140442,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [89]
+    },
+    {
+      "name": "HaibuRigComp0004:RightArm",
+      "children": [90]
+    },
+    {
+      "name": "HaibuRigComp0004:RightForeArm",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -4.496614584452224e-15,
+        14.66075325012207,
+        8.694970021693132e-16,
+        1.0
+      ],
+      "children": [91]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHand_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.00003078466761508025,
+        10.219179153442383,
+        0.000007584239938296378,
+        1.0
+      ],
+      "children": [92]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHand_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9969670176506043,
+        0.00042708730325102806,
+        -0.0778239443898201,
+        0.0,
+        -0.054487258195877078,
+        0.7178406715393066,
+        -0.6940720081329346,
+        0.0,
+        0.05556876212358475,
+        0.6962073445320129,
+        0.7156867384910584,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [93]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHand",
+      "children": [94, 118, 127]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandRing_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        5.4662644446675308e-15,
+        1.7722936868667603,
+        -3.4758890610339569e-15,
+        1.0
+      ],
+      "children": [95]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandRing_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9937724471092224,
+        -0.11142835766077042,
+        0.0,
+        0.0,
+        0.08202452212572098,
+        0.7315347194671631,
+        -0.676852285861969,
+        0.0,
+        0.07542053610086441,
+        0.6726371645927429,
+        0.7361189126968384,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [96]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandRing",
+      "children": [97, 106]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandRing1_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.11935561895370484,
+        1.1130564212799073,
+        7.100499629974365,
+        1.0
+      ],
+      "children": [98]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandRing1_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.998085081577301,
+        0.0029213407542556526,
+        0.061786502599716189,
+        0.0,
+        -0.06185552850365639,
+        0.04713800922036171,
+        0.9969713687896729,
+        0.0,
+        4.656612873077393e-10,
+        -0.9988841414451599,
+        0.04722844809293747,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [99]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandRing1",
+      "children": [100]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandRing2",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -1.2934098236883074e-14,
+        3.831977128982544,
+        -2.267283583101687e-15,
+        1.0
+      ],
+      "children": [101]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandRing3",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -9.686695889854491e-15,
+        2.297997236251831,
+        -2.615963001773025e-15,
+        1.0
+      ],
+      "children": [102]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandRing4_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -1.0075273948473296e-14,
+        2.4271934032440187,
+        -2.8449465006019638e-15,
+        1.0
+      ],
+      "children": [103]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandRing4_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9930480122566223,
+        0.09321876615285874,
+        0.07187452912330628,
+        0.0,
+        -0.09737326204776764,
+        0.9936349391937256,
+        0.056638866662979129,
+        0.0,
+        -0.06613724678754807,
+        -0.06324376910924912,
+        0.9958042502403259,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [104]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandRing4_$AssimpFbx$_PostRotation",
+      "matrix": [
+        -0.04255006089806557,
+        -0.21737323701381684,
+        -0.9751605987548828,
+        -0.0,
+        0.009475825354456902,
+        -0.9760884642601013,
+        0.21716658771038056,
+        0.0,
+        -0.9990493655204773,
+        9.313224635931761e-10,
+        0.043592419475317,
+        -0.0,
+        0.0,
+        0.0,
+        -0.0,
+        0.9999998807907105
+      ],
+      "children": [105]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandRing4"
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandPinky_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        9.492406860545089e-15,
+        1.0107712745666505,
+        2.220446049250313e-16,
+        1.0
+      ],
+      "children": [107]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandPinky_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.992844820022583,
+        0.04501854628324509,
+        0.11060120165348053,
+        0.0,
+        -0.11941229552030564,
+        0.3743034303188324,
+        0.919585645198822,
+        0.0,
+        -7.450580596923828e-9,
+        -0.9262129068374634,
+        0.37700095772743227,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [108]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandPinky",
+      "children": [109]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandPinky1_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -2.220446049250313e-15,
+        6.565859794616699,
+        1.1102230246251566e-16,
+        1.0
+      ],
+      "children": [110]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandPinky1_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9966992139816284,
+        -0.08091671764850617,
+        0.006570369936525822,
+        0.0,
+        0.0786815881729126,
+        0.9827554225921631,
+        0.16733530163764954,
+        0.0,
+        -0.019997289404273034,
+        -0.16626599431037904,
+        0.9858781695365906,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [111]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandPinky1",
+      "children": [112]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandPinky2",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -3.3306690738754698e-16,
+        3.224424362182617,
+        -4.0419056990259607e-16,
+        1.0
+      ],
+      "children": [113]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandPinky3",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -2.853273173286652e-14,
+        1.9950439929962159,
+        6.746339598073803e-15,
+        1.0
+      ],
+      "children": [114]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandPinky4_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        3.963496197911809e-14,
+        1.993234634399414,
+        6.840882027514539e-15,
+        1.0
+      ],
+      "children": [115]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandPinky4_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9533095359802246,
+        0.2811919152736664,
+        -0.11014537513256073,
+        0.0,
+        -0.27913233637809756,
+        0.9596500992774963,
+        0.03401242196559906,
+        0.0,
+        0.11526503413915634,
+        -0.0016792267560958863,
+        0.9933333992958069,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [116]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandPinky4_$AssimpFbx$_PostRotation",
+      "matrix": [
+        0.12069009244441986,
+        -0.052671708166599277,
+        -0.991291880607605,
+        -0.0,
+        -0.00636577932164073,
+        -0.9986118674278259,
+        0.05228561535477638,
+        0.0,
+        -0.9926698207855225,
+        -1.0710209608078003e-8,
+        -0.1208578571677208,
+        0.0,
+        -0.0,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "children": [117]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandPinky4"
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandMiddle1_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5226100087165833,
+        5.589961528778076,
+        6.851073741912842,
+        1.0
+      ],
+      "children": [119]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandMiddle1_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9947067499160767,
+        -0.10214269906282425,
+        0.011198739521205426,
+        0.0,
+        0.05683901906013489,
+        0.6377399563789368,
+        0.7681517004966736,
+        0.0,
+        -0.08560297638177872,
+        -0.7634491324424744,
+        0.6401699185371399,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [120]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandMiddle1",
+      "children": [121]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandMiddle2",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.9484414082171498e-14,
+        3.7870116233825685,
+        2.0816681711721686e-16,
+        1.0
+      ],
+      "children": [122]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandMiddle3",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        5.367928324062632e-14,
+        2.6186845302581789,
+        1.0727529975440575e-14,
+        1.0
+      ],
+      "children": [123]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandMiddle4_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        9.064970996064403e-14,
+        2.92390775680542,
+        6.00908212078366e-15,
+        1.0
+      ],
+      "children": [124]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandMiddle4_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9612815976142883,
+        0.1004369780421257,
+        0.2566128969192505,
+        0.0,
+        -0.1045597642660141,
+        0.994515597820282,
+        0.0024364516139030458,
+        0.0,
+        -0.254960834980011,
+        -0.02917350083589554,
+        0.9665112495422363,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [125]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandMiddle4_$AssimpFbx$_PostRotation",
+      "matrix": [
+        -0.061934079974889758,
+        -0.3084026873111725,
+        -0.9492374658584595,
+        -0.0,
+        0.020079391077160836,
+        -0.9512557983398438,
+        0.30774834752082827,
+        0.0,
+        -0.9978781938552856,
+        -0.0,
+        0.06510770320892334,
+        -0.0,
+        0.0,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "children": [126]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandMiddle4"
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandIndex_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.3630678057670593,
+        0.126589834690094,
+        1.6883379220962525,
+        1.0
+      ],
+      "children": [128]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandIndex_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9946913123130798,
+        -0.10053210705518723,
+        0.021966826170682908,
+        0.0,
+        0.02524263970553875,
+        0.4453229308128357,
+        0.8950141072273254,
+        0.0,
+        -0.09975998103618622,
+        -0.8897081613540649,
+        0.4454965591430664,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [129]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandIndex",
+      "children": [130, 139]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandIndex1_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        2.1566082253343667e-14,
+        7.4898858070373539,
+        -8.604228440844963e-15,
+        1.0
+      ],
+      "children": [131]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandIndex1_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9914689064025879,
+        -0.12978939712047578,
+        0.012005222961306572,
+        0.0,
+        0.13031387329101563,
+        0.9850688576698303,
+        -0.1125062108039856,
+        0.0,
+        0.0027761422097682955,
+        0.11311085522174835,
+        0.9935784935951233,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [132]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandIndex1",
+      "children": [133]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandIndex2",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        5.162537064506978e-15,
+        3.4554378986358644,
+        -7.008282842946301e-16,
+        1.0
+      ],
+      "children": [134]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandIndex3",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        5.334621633323877e-14,
+        2.629309892654419,
+        2.2724877535296174e-15,
+        1.0
+      ],
+      "children": [135]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandIndex4_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        3.660960423701454e-14,
+        2.471794843673706,
+        -7.032568971609976e-15,
+        1.0
+      ],
+      "children": [136]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandIndex4_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9656503200531006,
+        0.10104389488697052,
+        0.23939405381679536,
+        0.0,
+        -0.08077456802129746,
+        0.9923801422119141,
+        -0.09304314851760864,
+        0.0,
+        -0.24697135388851167,
+        0.07051020115613938,
+        0.966454029083252,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [137]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandIndex4_$AssimpFbx$_PostRotation",
+      "matrix": [
+        -0.12104375660419464,
+        -0.43591049313545229,
+        -0.8918129205703735,
+        -0.0,
+        0.05862759053707123,
+        -0.8999899625778198,
+        0.4319499433040619,
+        0.0,
+        -0.9909142851829529,
+        3.7252898543727044e-9,
+        0.13449455797672273,
+        -0.0,
+        0.0,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "children": [138]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandIndex4"
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandThumb1_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.032892413437366489,
+        1.3401650190353394,
+        1.088886022567749,
+        1.0
+      ],
+      "children": [140]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandThumb1_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9314602017402649,
+        0.3264898359775543,
+        0.16058090329170228,
+        0.0,
+        -0.3636987507343292,
+        0.847935140132904,
+        0.3856542706489563,
+        0.0,
+        -0.010249987244606018,
+        -0.41762468218803408,
+        0.9085618257522583,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [141]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandThumb1",
+      "children": [142]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandThumb2_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        5.995204332975845e-15,
+        5.3250017166137699,
+        -2.6645352591003758e-15,
+        1.0
+      ],
+      "children": [143]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandThumb2_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9965993165969849,
+        -0.07841024547815323,
+        0.02533218264579773,
+        0.0,
+        0.07625051587820053,
+        0.9940945506095886,
+        0.0772133320569992,
+        0.0,
+        -0.031236901879310609,
+        -0.07501915842294693,
+        0.9966927170753479,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [144]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandThumb2",
+      "children": [145]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandThumb3_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        7.216449660063518e-16,
+        2.3892130851745607,
+        2.4424906541753445e-15,
+        1.0
+      ],
+      "children": [146]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandThumb3_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9999468326568604,
+        0.00593955721706152,
+        -0.008430562913417817,
+        0.0,
+        -0.00615018280223012,
+        0.9996639490127564,
+        -0.02518160454928875,
+        0.0,
+        0.008278162218630314,
+        0.025232113897800447,
+        0.999647319316864,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [147]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandThumb3",
+      "children": [148]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandThumb4_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        3.3861802251067276e-15,
+        3.2881553173065187,
+        -8.659739592076221e-15,
+        1.0
+      ],
+      "children": [149]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandThumb4_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9567086100578308,
+        -0.030366184189915658,
+        0.28945913910865786,
+        0.0,
+        0.031852949410676959,
+        0.9994924068450928,
+        -0.0004256851098034531,
+        0.0,
+        -0.2892993092536926,
+        0.009627384133636952,
+        0.9571902751922607,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [150]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandThumb4_$AssimpFbx$_PostRotation",
+      "matrix": [
+        0.7339834570884705,
+        -0.6591835618019104,
+        0.16354063153266908,
+        -0.0,
+        -0.5744979977607727,
+        -0.4741656482219696,
+        0.6671725511550903,
+        0.0,
+        -0.36224377155303957,
+        -0.5836473107337952,
+        -0.7267293334007263,
+        -0.0,
+        -0.0,
+        0.0,
+        -0.0,
+        1.000000238418579
+      ],
+      "children": [151]
+    },
+    {
+      "name": "HaibuRigComp0004:RightHandThumb4"
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie1_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -3.7355198860168459,
+        7.601553916931152,
+        9.923693656921387,
+        1.0
+      ],
+      "children": [153]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie1_$AssimpFbx$_PreRotation",
+      "matrix": [
+        -0.7381279468536377,
+        0.02030174806714058,
+        -0.6743552088737488,
+        0.0,
+        -0.2991008758544922,
+        -0.9057971239089966,
+        0.30011698603630068,
+        0.0,
+        -0.6047360897064209,
+        0.4232249855995178,
+        0.6746664047241211,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [154]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie1",
+      "children": [155]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie2_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.9879825155575804e-15,
+        1.8665578365325928,
+        -7.426447762412698e-15,
+        1.0
+      ],
+      "children": [156]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie2_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9547299742698669,
+        -0.13188062608242036,
+        -0.26664239168167117,
+        0.0,
+        0.08287070691585541,
+        0.9787853956222534,
+        -0.1873808652162552,
+        0.0,
+        0.2856975793838501,
+        0.1568012833595276,
+        0.9454047679901123,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [157]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie2",
+      "children": [158]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie3_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -1.6150205681125926e-15,
+        1.8668010234832764,
+        4.585606830506076e-15,
+        1.0
+      ],
+      "children": [159]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie3_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9821755290031433,
+        0.05236385762691498,
+        0.18052496016025544,
+        0.0,
+        -0.01674126833677292,
+        0.9809654355049133,
+        -0.19345951080322267,
+        0.0,
+        -0.18721903860569,
+        0.18698899447917939,
+        0.9643568992614746,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [160]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie3",
+      "children": [161]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie4_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.1686336755139843e-15,
+        2.317307949066162,
+        4.311243118011515e-15,
+        1.0
+      ],
+      "children": [162]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie4_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9486765265464783,
+        -0.028166769072413446,
+        -0.3149912655353546,
+        0.0,
+        0.005519013851881027,
+        0.9973486661911011,
+        -0.07256179302930832,
+        0.0,
+        0.31619992852211,
+        0.06709922850131989,
+        0.9463167190551758,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [163]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie4",
+      "children": [164]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie5_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.1350840769017807e-15,
+        2.968050003051758,
+        -2.440219335327282e-15,
+        1.0
+      ],
+      "children": [165]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie5_$AssimpFbx$_PreRotation",
+      "matrix": [
+        -0.8738306164741516,
+        0.008485565893352032,
+        0.48615649342536929,
+        0.0,
+        -0.03471940755844116,
+        0.9962065815925598,
+        -0.0797937661409378,
+        0.0,
+        -0.4849894046783447,
+        -0.08660528808832169,
+        -0.8702211976051331,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [166]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie5",
+      "children": [167]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie6_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -2.038726353603454e-15,
+        2.8114755153656008,
+        -2.7357436249101504e-15,
+        1.0
+      ],
+      "children": [168]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie6_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9408628344535828,
+        -0.024191344156861306,
+        -0.33792293071746828,
+        0.0,
+        0.04578104242682457,
+        0.9973769187927246,
+        0.056065429002046588,
+        0.0,
+        0.3356802463531494,
+        -0.0682203397154808,
+        0.9395024180412293,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [169]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie6",
+      "children": [170]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie7_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        8.599580744593599e-17,
+        2.8963658809661867,
+        -1.4866584424285974e-15,
+        1.0
+      ],
+      "children": [171]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie7_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.09541074186563492,
+        -1.2892282086340857e-7,
+        -0.9954379796981812,
+        0.0,
+        1.0736005151557038e-7,
+        1.0,
+        -1.1922341514036817e-7,
+        0.0,
+        0.9954379796981812,
+        -9.54950110099162e-8,
+        0.09541074186563492,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [172]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_R_Hoody_Tie7"
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie1_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        3.7355198860168459,
+        7.601553916931152,
+        9.923693656921387,
+        1.0
+      ],
+      "children": [174]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie1_$AssimpFbx$_PreRotation",
+      "matrix": [
+        -0.7381279468536377,
+        -0.02030174806714058,
+        0.6743552088737488,
+        0.0,
+        0.2991008758544922,
+        -0.9057971239089966,
+        0.30011698603630068,
+        0.0,
+        0.6047360897064209,
+        0.4232249855995178,
+        0.6746664047241211,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [175]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie1",
+      "children": [176]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie2_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -1.2937928519870558e-15,
+        1.8665578365325928,
+        -1.3112871528422909e-15,
+        1.0
+      ],
+      "children": [177]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie2_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9547299742698669,
+        0.13188062608242036,
+        0.26664239168167117,
+        0.0,
+        -0.08287070691585541,
+        0.9787853956222534,
+        -0.1873808652162552,
+        0.0,
+        -0.2856975793838501,
+        0.1568012833595276,
+        0.9454047679901123,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [178]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie2",
+      "children": [179]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie3_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.7635047026124426e-15,
+        1.8668010234832764,
+        1.0416041232384332e-14,
+        1.0
+      ],
+      "children": [180]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie3_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9821755290031433,
+        -0.05236385762691498,
+        -0.18052496016025544,
+        0.0,
+        0.01674126833677292,
+        0.9809654355049133,
+        -0.19345951080322267,
+        0.0,
+        0.18721903860569,
+        0.18698899447917939,
+        0.9643568992614746,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [181]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie3",
+      "children": [182]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie4_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        3.266187631974552e-15,
+        2.317307949066162,
+        -7.136758259286991e-15,
+        1.0
+      ],
+      "children": [183]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie4_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9486765265464783,
+        0.028166769072413446,
+        0.3149912655353546,
+        0.0,
+        -0.005519013851881027,
+        0.9973486661911011,
+        -0.07256179302930832,
+        0.0,
+        -0.31619992852211,
+        0.06709922850131989,
+        0.9463167190551758,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [184]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie4",
+      "children": [185]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie5_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.1772558356423226e-15,
+        2.968050003051758,
+        -9.63977174688426e-16,
+        1.0
+      ],
+      "children": [186]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie5_$AssimpFbx$_PreRotation",
+      "matrix": [
+        -0.8738306164741516,
+        -0.008485468104481697,
+        -0.4861564636230469,
+        0.0,
+        0.03471958637237549,
+        0.996206521987915,
+        -0.07979388535022736,
+        0.0,
+        0.48498934507369997,
+        -0.0866054892539978,
+        -0.8702211380004883,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [187]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie5",
+      "children": [188]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie6_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        2.121774969466423e-15,
+        2.8114755153656008,
+        7.574597954173093e-16,
+        1.0
+      ],
+      "children": [189]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie6_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.9408628344535828,
+        0.024191344156861306,
+        0.33792293071746828,
+        0.0,
+        -0.04578104242682457,
+        0.9973769187927246,
+        0.056065429002046588,
+        0.0,
+        -0.3356802463531494,
+        -0.0682203397154808,
+        0.9395024180412293,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [190]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie6",
+      "children": [191]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie7_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -3.945164477933271e-16,
+        2.8963658809661867,
+        3.9197831356687959e-16,
+        1.0
+      ],
+      "children": [192]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie7_$AssimpFbx$_PreRotation",
+      "matrix": [
+        0.09541074186563492,
+        1.2892282086340857e-7,
+        0.9954379796981812,
+        0.0,
+        1.4278612070484087e-8,
+        -1.0,
+        1.2814508920655499e-7,
+        0.0,
+        0.9954379796981812,
+        1.987018549698405e-9,
+        -0.09541074186563492,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [193]
+    },
+    {
+      "name": "HaibuRigComp0004:SRC_L_Hoody_Tie7"
+    },
+    {
+      "name": "HaibuRigComp0004:LeftUpLeg",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        7.184558868408203,
+        -6.437813758850098,
+        0.0608566589653492,
+        1.0
+      ],
+      "children": [195]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftLeg",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.002249367767944932,
+        -17.510143280029298,
+        2.1624505519866945,
+        1.0
+      ],
+      "children": [196]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftFoot",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.018297621980309488,
+        -13.887590408325196,
+        0.36626437306404116,
+        1.0
+      ],
+      "children": [197]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftForeFoot",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.000004141843419347424,
+        -5.082481384277344,
+        0.9360167980194092,
+        1.0
+      ],
+      "children": [198]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftToeBase_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0721914768218995,
+        1.5834238529205323,
+        8.54546070098877,
+        1.0
+      ],
+      "children": [199]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftToeBase_$AssimpFbx$_PreRotation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.993010401725769,
+        -0.11802677065134049,
+        0.0,
+        0.0,
+        0.11802677065134049,
+        0.993010401725769,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [200]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftToeBase_$AssimpFbx$_PostRotation",
+      "matrix": [
+        1.0,
+        -0.0,
+        0.0,
+        -0.0,
+        -0.0,
+        0.993010401725769,
+        0.11802677065134049,
+        0.0,
+        0.0,
+        -0.11802677065134049,
+        0.993010401725769,
+        -0.0,
+        -0.0,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "children": [201]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftToeBase",
+      "children": [202]
+    },
+    {
+      "name": "HaibuRigComp0004:LeftToeBaseEnd",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6331787705421448,
+        1.3517158031463624,
+        7.678386688232422,
+        1.0
+      ]
+    },
+    {
+      "name": "HaibuRigComp0004:RightUpLeg",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -7.1845598220825199,
+        -6.437826633453369,
+        0.060858990997076038,
+        1.0
+      ],
+      "children": [204]
+    },
+    {
+      "name": "HaibuRigComp0004:RightLeg",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -4.008783746173002e-15,
+        -17.510143280029298,
+        2.162447690963745,
+        1.0
+      ],
+      "children": [205]
+    },
+    {
+      "name": "HaibuRigComp0004:RightFoot",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.013060401193797589,
+        -13.887532234191895,
+        0.3662138879299164,
+        1.0
+      ],
+      "children": [206]
+    },
+    {
+      "name": "HaibuRigComp0004:RightForeFoot",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.008450223132967949,
+        -4.784093856811523,
+        0.8148913979530335,
+        1.0
+      ],
+      "children": [207]
+    },
+    {
+      "name": "HaibuRigComp0004:RightToeBase_$AssimpFbx$_Translation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -1.1360143423080445,
+        1.2857263088226319,
+        8.660426139831543,
+        1.0
+      ],
+      "children": [208]
+    },
+    {
+      "name": "HaibuRigComp0004:RightToeBase_$AssimpFbx$_PreRotation",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9865087866783142,
+        -0.16370844841003419,
+        0.0,
+        0.0,
+        0.16370844841003419,
+        0.9865087866783142,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "children": [209]
+    },
+    {
+      "name": "HaibuRigComp0004:RightToeBase_$AssimpFbx$_PostRotation",
+      "matrix": [
+        1.0,
+        -0.0,
+        0.0,
+        -0.0,
+        -0.0,
+        0.9865086674690247,
+        0.16370843350887299,
+        0.0,
+        0.0,
+        -0.16370843350887299,
+        0.9865086674690247,
+        -0.0,
+        -0.0,
+        0.0,
+        -0.0,
+        1.0
+      ],
+      "children": [210]
+    },
+    {
+      "name": "HaibuRigComp0004:RightToeBase",
+      "children": [211]
+    },
+    {
+      "name": "HaibuRigComp0004:RightToeBaseEnd",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.650061845779419,
+        1.350633144378662,
+        7.677171230316162,
+        1.0
+      ]
+    }
+  ],
+  "samplers": [{}, {}, {}, {}, {}, {}, {}, {}],
+  "scenes": [
+    {
+      "nodes": [0]
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "sampler": 0
+    },
+    {
+      "source": 1,
+      "sampler": 1
+    },
+    {
+      "source": 2,
+      "sampler": 2
+    },
+    {
+      "source": 3,
+      "sampler": 3
+    },
+    {
+      "source": 4,
+      "sampler": 4
+    },
+    {
+      "source": 5,
+      "sampler": 5
+    },
+    {
+      "source": 6,
+      "sampler": 6
+    },
+    {
+      "source": 7,
+      "sampler": 7
+    }
+  ],
+  "scene": 0
+}
