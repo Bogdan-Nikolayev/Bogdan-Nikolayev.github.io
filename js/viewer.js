@@ -18,10 +18,10 @@ function setupModelViewer(url) {
       src="models/' +
     url +
     '"\
+      autoplay\
       alt="See this beautiful business card"\
       ar\
       ar-modes="scene-viewer quick-look"\
-      ar-scale="auto"\
       ios-src="models/Astronaut.usdz"\
       camera-controls\
     ></model-viewer>';
