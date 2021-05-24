@@ -3,7 +3,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Enter a text</title>
+    <title>Bogdan Nikolayev</title>
     <link
       rel="stylesheet"
       href="https://fonts.googleapis.com/icon?family=Material+Icons"
@@ -12,8 +12,9 @@
       rel="stylesheet"
       href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css"
     />
+    <link rel="stylesheet" href="css/main.css" />
     <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
-    <script defer src="js/index.js"></script>
+    <script defer src="js/main.js"></script>
     <style>
       /* body {
         display: table;
@@ -23,12 +24,7 @@
         text-align: center;
         vertical-align: middle;
       } */
-      body {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-      }
+
       form {
         display: flex;
         flex-direction: column;
@@ -44,16 +40,9 @@
         margin: 0;
         text-align: center;
       }
-      .disableCaret {
-        -webkit-user-select: none; /* Chrome all / Safari all */
-        -moz-user-select: none; /* Firefox all */
-        -ms-user-select: none; /* IE 10+ */
-        user-select: none;
-      }
     </style>
   </head>
-
-  <body class="disableCaret">
+  <body class="disableCaret centered">
     <form action="viewer.html">
       <p class="hint">Please, enter some text</p>
       <div class="mdl-textfield mdl-js-textfield">
@@ -73,12 +62,6 @@
       >
         Web-XR
       </button> -->
-      <button
-        class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored"
-        onclick="openModel('Haibu_pose_01.glb')"
-      >
-        Haibu_pose_01
-      </button>
       <button
         class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored"
         onclick="openModel('fluxs_pit_stop/scene.gltf')"
