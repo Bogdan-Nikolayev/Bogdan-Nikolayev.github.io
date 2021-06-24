@@ -61,36 +61,97 @@
         <label class="mdl-textfield__label">Text...</label>
       </div>
       <button
-        class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored"
+        class="
+          mdl-button mdl-js-button
+          mdl-button--raised
+          mdl-js-ripple-effect
+          mdl-button--colored
+        "
       >
         Enter
       </button>
     </form>
     <div class="concreteModels">
       <button
-        class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored"
+        class="
+          mdl-button mdl-js-button
+          mdl-button--raised
+          mdl-js-ripple-effect
+          mdl-button--colored
+        "
         onclick="openModel('fluxs_pit_stop/scene.gltf')"
       >
         fluxs_pit_stop
       </button>
       <button
-        class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored"
+        class="
+          mdl-button mdl-js-button
+          mdl-button--raised
+          mdl-js-ripple-effect
+          mdl-button--colored
+        "
         onclick="openModel('holo-table/scene.gltf')"
       >
         holo-table
       </button>
       <button
-        class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored"
+        class="
+          mdl-button mdl-js-button
+          mdl-button--raised
+          mdl-js-ripple-effect
+          mdl-button--colored
+        "
         onclick="openModel('looking_glass_trefoil_knot/scene.gltf')"
       >
         looking_glass_trefoil_knot
       </button>
       <button
-        class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored"
+        class="
+          mdl-button mdl-js-button
+          mdl-button--raised
+          mdl-js-ripple-effect
+          mdl-button--colored
+        "
         onclick="openModel('robot_playground/scene.gltf')"
       >
         robot_playground
       </button>
     </div>
+    <model-viewer
+      ar
+      ar-modes="webxr scene-viewer quick-look"
+      camera-controls
+      src="../../shared-assets/models/Astronaut.glb"
+      alt="A 3D model of an astronaut"
+    >
+      <div slot="ar-button">
+        <button
+          slot="ar-button"
+          style="
+            background-color: white;
+            border-radius: 4px;
+            border: none;
+            position: absolute;
+            top: 16px;
+            right: 16px;
+          "
+        >
+          👋 Activate AR
+        </button>
+        <button
+          slot="ar-button"
+          style="
+            background-color: white;
+            border-radius: 4px;
+            border: none;
+            position: absolute;
+            top: 16px;
+            right: 16px;
+          "
+        >
+          👋 Activate AR
+        </button>
+      </div>
+    </model-viewer>
   </body>
 </html>
