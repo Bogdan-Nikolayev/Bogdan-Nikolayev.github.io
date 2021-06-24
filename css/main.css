@@ -1,0 +1,15 @@
+@import "https://fonts.googleapis.com/icon?family=Material+Icons";
+@import "https://code.getmdl.io/1.3.0/material.indigo-pink.min.css";
+
+.disableCaret {
+  -webkit-user-select: none; /* Chrome all / Safari all */
+  -moz-user-select: none; /* Firefox all */
+  -ms-user-select: none; /* IE 10+ */
+  user-select: none;
+}
+.centered {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
