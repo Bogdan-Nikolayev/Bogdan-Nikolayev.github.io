@@ -8,8 +8,6 @@
   user-select: none;
 }
 .centered {
-  display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
@@ -18,3 +16,11 @@
   flex-direction: column;
   gap: 15px;
 }
+/* body {
+        display: table;
+      } */
+/* form {
+        display: table-cell;
+        text-align: center;
+        vertical-align: middle;
+      } */

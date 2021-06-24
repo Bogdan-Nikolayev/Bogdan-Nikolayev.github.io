@@ -7,25 +7,11 @@
     <link rel="stylesheet" href="css/main.css" />
     <script defer src="js/main.js"></script>
     <style>
-      /* body {
-        display: table;
-      } */
-      /* form {
-        display: table-cell;
-        text-align: center;
-        vertical-align: middle;
-      } */
       * {
         margin: 0;
       }
-      body {
-        display: flex;
-        flex-direction: column;
+      body.flex-column {
         gap: 50px;
-      }
-      form {
-        display: flex;
-        flex-direction: column;
       }
       .hint {
         /* Remove 14px margin from Material theme */
@@ -34,8 +20,8 @@
       }
     </style>
   </head>
-  <body class="disableCaret centered">
-    <form action="viewer.html">
+  <body class="disableCaret centered flex-column">
+    <form class="flex-column" action="viewer.html">
       <p class="hint">Please, enter some text</p>
       <div class="mdl-textfield mdl-js-textfield">
         <input class="mdl-textfield__input" type="text" name="text" />
