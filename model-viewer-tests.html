@@ -1,0 +1,46 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <model-viewer
+      ar
+      ar-modes="webxr scene-viewer quick-look"
+      camera-controls
+      src="../../shared-assets/models/Astronaut.glb"
+      alt="A 3D model of an astronaut"
+    >
+      <div slot="ar-button">
+        <button
+          slot="ar-button"
+          style="
+            background-color: white;
+            border-radius: 4px;
+            border: none;
+            position: absolute;
+            top: 16px;
+            right: 16px;
+          "
+        >
+          👋 Activate AR
+        </button>
+        <button
+          slot="ar-button"
+          style="
+            background-color: white;
+            border-radius: 4px;
+            border: none;
+            position: absolute;
+            top: 16px;
+            right: 16px;
+          "
+        >
+          👋 Activate AR
+        </button>
+      </div>
+    </model-viewer>
+  </body>
+</html>

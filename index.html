@@ -15,16 +15,17 @@
         text-align: center;
         vertical-align: middle;
       } */
-
+      * {
+        margin: 0;
+      }
+      body {
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+      }
       form {
         display: flex;
         flex-direction: column;
-      }
-      .concreteModels {
-        display: flex;
-        flex-direction: column;
-        height: 200;
-        justify-content: space-between;
       }
       .hint {
         /* Remove 14px margin from Material theme */
@@ -51,13 +52,8 @@
         Enter
       </button>
     </form>
-    <div class="concreteModels">
-      <!-- <button
-        class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored"
-        onclick="openPage('web-xr.html')"
-      >
-        Web-XR
-      </button> -->
+    <div class="flex-column">
+      <p class="hint">Models:</p>
       <button
         class="
           mdl-button mdl-js-button
@@ -103,41 +99,19 @@
         robot_playground
       </button>
     </div>
-    <model-viewer
-      ar
-      ar-modes="webxr scene-viewer quick-look"
-      camera-controls
-      src="../../shared-assets/models/Astronaut.glb"
-      alt="A 3D model of an astronaut"
-    >
-      <div slot="ar-button">
-        <button
-          slot="ar-button"
-          style="
-            background-color: white;
-            border-radius: 4px;
-            border: none;
-            position: absolute;
-            top: 16px;
-            right: 16px;
-          "
-        >
-          👋 Activate AR
-        </button>
-        <button
-          slot="ar-button"
-          style="
-            background-color: white;
-            border-radius: 4px;
-            border: none;
-            position: absolute;
-            top: 16px;
-            right: 16px;
-          "
-        >
-          👋 Activate AR
-        </button>
-      </div>
-    </model-viewer>
+    <div class="flex-column">
+      <p class="hint">Other:</p>
+      <button
+        class="
+          mdl-button mdl-js-button
+          mdl-button--raised
+          mdl-js-ripple-effect
+          mdl-button--colored
+        "
+        onclick="openPage('model-viewer-tests.html')"
+      >
+        Model-Viewer
+      </button>
+    </div>
   </body>
 </html>
