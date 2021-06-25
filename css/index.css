@@ -4,7 +4,7 @@
 }
 
 body.flex-column {
-  /* gap: 50px; */
+  gap: 30px;
 }
 
 .hint {
