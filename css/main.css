@@ -19,6 +19,10 @@
   align-items: center;
 }
 
+.centered-text {
+  text-align: center;
+}
+
 /*
 .table {
   display: table;
