@@ -1,8 +1,3 @@
-/* type User = 1;
+var message: string = 'Hello, World!';
 
-function getAdminUser(): User {;
-    return new getAdminUser();
-  } */
-
-let message: string = 'Hello, World!';
 console.log(message);
