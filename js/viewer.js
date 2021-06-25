@@ -37,14 +37,13 @@ function setupTree() {
   );
   const renderer = new THREE.WebGLRenderer();
   const controls = new OrbitControls(camera, renderer.domElement);
-  renderer.setSize(window.innerWidth, window.innerHeight);
-
-  // createCube();
-  // Need to light up the models because its black without it.
   const light = new THREE.AmbientLight(0xffffff);
-  scene.add(light);
 
   camera.position.z = 5;
+  renderer.setSize(window.innerWidth, window.innerHeight);
+
+  // Need to light up the models because its black without it.
+  scene.add(light);
 
   loadGltf();
 
@@ -62,18 +61,14 @@ function setupTree() {
   function loadGltf() {
     const loader = new GLTFLoader();
 
-    // Optional: Provide a DRACOLoader instance to decode compressed mesh data
-    const dracoLoader = new DRACOLoader();
-    dracoLoader.setDecoderPath("/examples/js/libs/draco/");
-    loader.setDRACOLoader(dracoLoader);
+    // Optional: Provide a DRACOLoader instance to decode compressed mesh data.
+    // const dracoLoader = new DRACOLoader();
+    // dracoLoader.setDecoderPath("/examples/js/libs/draco/");
+    // loader.setDRACOLoader(dracoLoader);
 
-    // Load a glTF resource
     loader.load(
-      // resource URL
       "models/robot_playground/scene.gltf",
-      // called when the resource is loaded
       function (gltf) {
-        // gltf.scene.scale = 100;
         scene.add(gltf.scene);
 
         gltf.animations; // Array<THREE.AnimationClip>
@@ -82,13 +77,13 @@ function setupTree() {
         gltf.cameras; // Array<THREE.Camera>
         gltf.asset; // Object
       },
-      // called while loading is progressing
+
       function (xhr) {
         console.log((xhr.loaded / xhr.total) * 100 + "% loaded");
       },
-      // called when loading has errors
+
       function (error) {
-        console.log("An error happened");
+        console.log("Error: " + error);
       }
     );
   }

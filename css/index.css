@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+}
+
+body.flex-column {
+  gap: 50px;
+}
+
+.hint {
+  /* Remove 14px margin from Material theme */
+  margin: 0;
+  text-align: center;
+}

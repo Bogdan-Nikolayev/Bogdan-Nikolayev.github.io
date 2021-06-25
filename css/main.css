@@ -7,20 +7,26 @@
   -ms-user-select: none; /* IE 10+ */
   user-select: none;
 }
-.centered {
-  justify-content: center;
-  align-items: center;
-}
+
 .flex-column {
   display: flex;
   flex-direction: column;
   gap: 15px;
 }
-/* body {
-        display: table;
-      } */
-/* form {
-        display: table-cell;
-        text-align: center;
-        vertical-align: middle;
-      } */
+
+.centered {
+  justify-content: center;
+  align-items: center;
+}
+
+/*
+.table {
+  display: table;
+}
+
+.table-cell-centered {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+*/
