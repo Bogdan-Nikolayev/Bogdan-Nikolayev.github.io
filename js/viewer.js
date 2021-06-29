@@ -15,14 +15,14 @@ function setup() {
 function setupModelViewer(url) {
   document.body.innerHTML +=
     '<model-viewer\
-      src="models/' +
+      src="assets/models/' +
     url +
     '"\
       autoplay\
       alt="See this beautiful business card"\
       ar\
       ar-modes="scene-viewer quick-look"\
-      ios-src="models/Astronaut.usdz"\
+      ios-src="assets/models/Astronaut.usdz"\
       camera-controls\
     ></model-viewer>';
 }
@@ -67,7 +67,7 @@ function setupTree() {
     // loader.setDRACOLoader(dracoLoader);
 
     loader.load(
-      "models/robot_playground/scene.gltf",
+      "assets/models/robot_playground/scene.gltf",
       function (gltf) {
         scene.add(gltf.scene);
 
