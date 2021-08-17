@@ -3,6 +3,10 @@
   margin: 0;
 }
 
+body {
+  padding-bottom: 30px;
+}
+
 body.flex-column {
   gap: 30px;
 }
