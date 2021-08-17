@@ -1,3 +1,5 @@
+// https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/enumerateDevices
+
 function logMediaDevices() {
   if (!navigator.mediaDevices || !navigator.mediaDevices.enumerateDevices) {
     console.log("enumerateDevices() not supported.");
