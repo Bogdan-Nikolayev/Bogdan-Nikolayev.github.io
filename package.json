@@ -1,0 +1,19 @@
+{
+  "name": "bogdan-nikolayev.github.io",
+  "version": "1.0.0",
+  "description": "My personal project for testing various technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bogdan-Nikolayev/Bogdan-Nikolayev.github.io.git"
+  },
+  "author": "Bodix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bogdan-Nikolayev/Bogdan-Nikolayev.github.io/issues"
+  },
+  "homepage": "https://github.com/Bogdan-Nikolayev/Bogdan-Nikolayev.github.io#readme"
+}
